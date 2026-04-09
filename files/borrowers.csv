@@ -1,0 +1,101 @@
+borrower_id,name,join_date,region,gender,agent_id
+BRW0001,Borrower_1,2021-08-17,Jakarta,F,AGT004
+BRW0002,Borrower_2,2022-04-03,Jawa Barat,F,AGT009
+BRW0003,Borrower_3,2021-06-28,Sumatera Utara,M,AGT001
+BRW0004,Borrower_4,2021-03-03,Jakarta,F,AGT004
+BRW0005,Borrower_5,2023-11-01,Sumatera Utara,F,AGT009
+BRW0006,Borrower_6,2022-02-12,Sulawesi Selatan,M,AGT004
+BRW0007,Borrower_7,2023-07-09,Sumatera Utara,F,AGT001
+BRW0008,Borrower_8,2021-11-23,Sulawesi Selatan,M,AGT006
+BRW0009,Borrower_9,2022-07-24,Jawa Barat,F,AGT006
+BRW0010,Borrower_10,2021-07-29,Jakarta,M,AGT002
+BRW0011,Borrower_11,2023-01-06,Jawa Tengah,F,AGT001
+BRW0012,Borrower_12,2023-07-30,Sumatera Utara,F,AGT007
+BRW0013,Borrower_13,2021-06-11,Sumatera Utara,F,AGT010
+BRW0014,Borrower_14,2023-01-11,Sumatera Utara,F,AGT002
+BRW0015,Borrower_15,2021-04-04,Sulawesi Selatan,F,AGT005
+BRW0016,Borrower_16,2021-06-13,Jawa Barat,F,AGT007
+BRW0017,Borrower_17,2022-07-24,Jawa Timur,F,AGT003
+BRW0018,Borrower_18,2023-01-29,Jawa Tengah,F,AGT005
+BRW0019,Borrower_19,2021-05-27,Sumatera Utara,F,AGT009
+BRW0020,Borrower_20,2022-05-17,Jawa Barat,M,AGT007
+BRW0021,Borrower_21,2022-07-07,Sulawesi Selatan,F,AGT006
+BRW0022,Borrower_22,2021-04-25,Jawa Barat,F,AGT006
+BRW0023,Borrower_23,2023-04-02,Jawa Tengah,F,AGT004
+BRW0024,Borrower_24,2022-10-07,Jawa Barat,M,AGT007
+BRW0025,Borrower_25,2023-07-29,Jawa Barat,F,AGT003
+BRW0026,Borrower_26,2022-05-21,Sulawesi Selatan,F,AGT010
+BRW0027,Borrower_27,2023-05-28,Sumatera Utara,M,AGT006
+BRW0028,Borrower_28,2022-03-26,Jawa Barat,M,AGT002
+BRW0029,Borrower_29,2021-04-07,Jakarta,F,AGT003
+BRW0030,Borrower_30,2023-05-15,Sumatera Utara,F,AGT007
+BRW0031,Borrower_31,2023-02-21,Sumatera Utara,M,AGT009
+BRW0032,Borrower_32,2022-05-30,Sumatera Utara,F,AGT002
+BRW0033,Borrower_33,2022-07-01,Sulawesi Selatan,F,AGT002
+BRW0034,Borrower_34,2022-08-25,Jawa Timur,F,AGT008
+BRW0035,Borrower_35,2021-01-07,Sulawesi Selatan,F,AGT009
+BRW0036,Borrower_36,2022-01-01,Sumatera Utara,F,AGT005
+BRW0037,Borrower_37,2023-11-06,Sumatera Utara,F,AGT003
+BRW0038,Borrower_38,2023-02-05,Jawa Barat,F,AGT010
+BRW0039,Borrower_39,2022-10-26,Jawa Timur,F,AGT002
+BRW0040,Borrower_40,2023-01-14,Jawa Tengah,F,AGT001
+BRW0041,Borrower_41,2022-05-09,Sumatera Utara,F,AGT002
+BRW0042,Borrower_42,2023-09-23,Jakarta,F,AGT003
+BRW0043,Borrower_43,2023-09-01,Sumatera Utara,F,AGT005
+BRW0044,Borrower_44,2023-12-17,Sumatera Utara,M,AGT004
+BRW0045,Borrower_45,2022-02-16,Sulawesi Selatan,F,AGT007
+BRW0046,Borrower_46,2023-02-04,Jawa Timur,M,AGT002
+BRW0047,Borrower_47,2022-05-23,Jawa Barat,F,AGT006
+BRW0048,Borrower_48,2021-02-13,Sumatera Utara,F,AGT010
+BRW0049,Borrower_49,2022-03-28,Jakarta,F,AGT001
+BRW0050,Borrower_50,2022-04-14,Jakarta,F,AGT006
+BRW0051,Borrower_51,2021-05-26,Sumatera Utara,F,AGT005
+BRW0052,Borrower_52,2023-09-22,Jawa Barat,F,AGT010
+BRW0053,Borrower_53,2023-08-27,Jawa Barat,M,AGT007
+BRW0054,Borrower_54,2022-01-25,Jakarta,F,AGT007
+BRW0055,Borrower_55,2022-12-27,Jawa Timur,M,AGT008
+BRW0056,Borrower_56,2021-04-21,Sulawesi Selatan,F,AGT001
+BRW0057,Borrower_57,2023-04-05,Sulawesi Selatan,F,AGT002
+BRW0058,Borrower_58,2022-05-25,Jawa Barat,F,AGT009
+BRW0059,Borrower_59,2023-07-08,Jawa Barat,M,AGT003
+BRW0060,Borrower_60,2022-07-25,Jawa Timur,F,AGT002
+BRW0061,Borrower_61,2023-06-27,Sumatera Utara,F,AGT001
+BRW0062,Borrower_62,2021-01-31,Jakarta,F,AGT003
+BRW0063,Borrower_63,2023-04-13,Jawa Timur,M,AGT004
+BRW0064,Borrower_64,2023-04-02,Jakarta,F,AGT007
+BRW0065,Borrower_65,2021-01-05,Jawa Timur,F,AGT008
+BRW0066,Borrower_66,2022-08-08,Jawa Timur,M,AGT003
+BRW0067,Borrower_67,2022-01-24,Jawa Tengah,F,AGT001
+BRW0068,Borrower_68,2021-05-05,Sulawesi Selatan,F,AGT001
+BRW0069,Borrower_69,2021-04-13,Sumatera Utara,M,AGT009
+BRW0070,Borrower_70,2023-12-24,Jawa Barat,F,AGT009
+BRW0071,Borrower_71,2021-06-14,Jawa Barat,F,AGT010
+BRW0072,Borrower_72,2021-05-20,Sulawesi Selatan,F,AGT007
+BRW0073,Borrower_73,2021-09-03,Sumatera Utara,F,AGT010
+BRW0074,Borrower_74,2021-03-23,Sumatera Utara,F,AGT007
+BRW0075,Borrower_75,2023-12-07,Jawa Tengah,F,AGT004
+BRW0076,Borrower_76,2022-10-06,Jawa Barat,F,AGT007
+BRW0077,Borrower_77,2021-09-26,Sulawesi Selatan,F,AGT008
+BRW0078,Borrower_78,2022-10-10,Jakarta,F,AGT008
+BRW0079,Borrower_79,2021-07-24,Jakarta,F,AGT009
+BRW0080,Borrower_80,2022-06-28,Jawa Barat,F,AGT002
+BRW0081,Borrower_81,2022-05-16,Jawa Tengah,F,AGT003
+BRW0082,Borrower_82,2023-06-17,Sumatera Utara,F,AGT010
+BRW0083,Borrower_83,2023-12-20,Jakarta,F,AGT002
+BRW0084,Borrower_84,2021-10-03,Jawa Tengah,F,AGT002
+BRW0085,Borrower_85,2021-11-15,Jawa Tengah,F,AGT010
+BRW0086,Borrower_86,2022-03-08,Sulawesi Selatan,F,AGT004
+BRW0087,Borrower_87,2022-06-25,Sumatera Utara,M,AGT005
+BRW0088,Borrower_88,2021-04-15,Jakarta,M,AGT005
+BRW0089,Borrower_89,2021-04-01,Jakarta,F,AGT003
+BRW0090,Borrower_90,2022-06-21,Jawa Barat,M,AGT009
+BRW0091,Borrower_91,2023-05-26,Sumatera Utara,F,AGT002
+BRW0092,Borrower_92,2021-06-04,Sulawesi Selatan,F,AGT009
+BRW0093,Borrower_93,2021-03-15,Jawa Tengah,F,AGT007
+BRW0094,Borrower_94,2021-09-19,Jakarta,F,AGT006
+BRW0095,Borrower_95,2021-03-23,Jawa Tengah,F,AGT004
+BRW0096,Borrower_96,2021-07-30,Jawa Tengah,M,AGT010
+BRW0097,Borrower_97,2021-11-13,Jawa Barat,F,AGT003
+BRW0098,Borrower_98,2023-04-25,Jakarta,F,AGT006
+BRW0099,Borrower_99,2023-04-24,Sulawesi Selatan,F,AGT005
+BRW0100,Borrower_100,2021-11-23,Sulawesi Selatan,F,AGT007
