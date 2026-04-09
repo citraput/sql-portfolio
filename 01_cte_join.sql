@@ -1,7 +1,7 @@
 -- ============================================
 -- Soal 01: Borrower dengan pinjaman aktif > 1
 -- Topik  : CTE + JOIN + HAVING
--- Dataset: Amartha Practice (BigQuery)
+-- Dataset: files
 -- Tanggal: 2024-12
 -- ============================================
 
